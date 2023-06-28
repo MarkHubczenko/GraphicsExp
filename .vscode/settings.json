@@ -1,0 +1,9 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "e:\\Github\\GraphicsExp",
+            "binaryPath": "e:\\Github\\GraphicsExp\\main",
+            "binaryArgs": []
+        }
+    ]
+}
